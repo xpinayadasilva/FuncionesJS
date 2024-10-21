@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+.container {    
+    text-align: center;
+    background-color: white;
+}
+#key{
+    width: 200px;
+    height: 200px;
+    color: black;
+    border: 2rem;
+    border-color: black;
+}
